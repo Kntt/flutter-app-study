@@ -158,8 +158,8 @@ class _UserPageState extends State<UserPage> {
                       ),
                       Column(
                         children: <Widget>[
-                          Text('刘岩松', style: TextStyle(color: Colors.white, fontSize: 20.0, ), textAlign: TextAlign.left,),
-                          Text('024939', style: TextStyle(color: Colors.white, fontSize: 16.0, ), textAlign: TextAlign.left,)
+                          Text('Kntt', style: TextStyle(color: Colors.white, fontSize: 20.0, ), textAlign: TextAlign.left,),
+                          Text('1001000', style: TextStyle(color: Colors.white, fontSize: 16.0, ), textAlign: TextAlign.left,)
                         ],
                       ),
                     ],
