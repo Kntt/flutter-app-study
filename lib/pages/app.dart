@@ -35,7 +35,7 @@ class Splash extends StatelessWidget {
               child: new Text(AppConfig.appName, style: new TextStyle(fontSize: 32.0))
             ),
             new Center(
-              child: new Text("FinupGroup", style: new TextStyle(fontSize: 16.0))
+              child: new Text("Flutter", style: new TextStyle(fontSize: 16.0))
             )
           ], 
           mainAxisAlignment: MainAxisAlignment.center
